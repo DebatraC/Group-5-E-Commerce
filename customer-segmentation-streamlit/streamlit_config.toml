@@ -1,0 +1,6 @@
+theme = "dark"
+primaryColor = "blue"
+backgroundColor = "black"
+secondaryBackgroundColor = "gray"
+textColor = "white"
+font = "sans serif"
