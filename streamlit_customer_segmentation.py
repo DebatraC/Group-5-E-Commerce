@@ -56,7 +56,7 @@ def load_data():
     """Load and preprocess the customer data"""
     try:
         # Try to load the data
-        data_path = './mytestdata.parquet'
+        data_path = './compressedtestfinal.parquet'
         customer_data = pd.read_parquet(data_path)
         
         # Data preprocessing
